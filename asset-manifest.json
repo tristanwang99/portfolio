@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.749d803c.css",
+    "main.js": "/portfolio/static/js/main.84eb7d96.js",
+    "static/media/resume-ui-ux.pdf": "/portfolio/static/media/resume-ui-ux.555ff01d440ca7c4213a.pdf",
+    "static/media/project4.png": "/portfolio/static/media/project4.1651493077dea4dcbd99.png",
+    "static/media/project1.png": "/portfolio/static/media/project1.ae183c175ef01b8ad057.png",
+    "static/media/project3.png": "/portfolio/static/media/project3.2bb14bf68141f701fcc6.png",
+    "static/media/project2.png": "/portfolio/static/media/project2.f573dd677aa354b0a0a5.png",
+    "static/media/c.png": "/portfolio/static/media/c.70b88a3b79a90681d8a9.png",
+    "static/media/blender.png": "/portfolio/static/media/blender.12d102b8339dd6e97bd7.png",
+    "index.html": "/portfolio/index.html",
+    "main.749d803c.css.map": "/portfolio/static/css/main.749d803c.css.map",
+    "main.84eb7d96.js.map": "/portfolio/static/js/main.84eb7d96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.749d803c.css",
+    "static/js/main.84eb7d96.js"
+  ]
+}
